@@ -1,0 +1,6 @@
+html {
+	background: url(https://raw.githubusercontent.com/Druhin13/Swad/master/assets/bg.png) no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+}
