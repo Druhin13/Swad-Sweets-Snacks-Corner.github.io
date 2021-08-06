@@ -17,11 +17,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #131313;
-  background-image: url('../images/bg.png');
-  background-position: 50% 50%;
-  background-size: 256px;
-  background-repeat: repeat;
+  background-color: #fff5eb;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
